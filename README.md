@@ -74,7 +74,7 @@ The debounce module ensures that button inputs are properly handled, filtering o
 
 ## Contributions
 - **楊子賝**: 25% - Graphics rendering, interface switching, and integration.
-- **曾煥宗**: 25% - Ball collision detection, boundary handling, AI for computer-controlled Pikachu.
+- **曾煥宗**: 25% - Ball collision detection, boundary handling.
 - **邱振源**: 25% - Player movement, image drawing and processing.
 - **陳燁**: 25% - Ball physics (parabolic motion, smashing mechanics).
 
